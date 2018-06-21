@@ -34,5 +34,5 @@ def solve():
     return twentiesNum
 
 
-print(solve(3))
+print(solve())
         
